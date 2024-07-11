@@ -1,13 +1,13 @@
 import { Component } from '@angular/core'
 
 @Component({
-    selector: 'app-odd-hobbies',
+    selector: 'app-hobbies',
     standalone: true,
     imports: [],
-    templateUrl: './odd-hobbies.component.html',
-    styleUrl: './odd-hobbies.component.css',
+    templateUrl: './hobbies.component.html',
+    styleUrl: './hobbies.component.css',
 })
-export class OddHobbiesComponent {
+export class HobbiesComponent {
     Hobbies = [
         [
             'https://cdn.nba.com/manage/2024/07/GettyImages-2160618408.jpg',

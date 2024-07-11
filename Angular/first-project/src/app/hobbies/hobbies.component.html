@@ -1,0 +1,9 @@
+<div class="element">
+    <label>Hobbies</label>
+    @for (item of Hobbies; track $index) {
+    <div class="element">
+        <label>{{ item[1] }}</label>
+        <img src="{{ item[0] }}" alt="{{ item[1] }}" />
+    </div>
+    }
+</div>
