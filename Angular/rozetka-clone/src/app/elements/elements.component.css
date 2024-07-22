@@ -1,0 +1,33 @@
+.element {
+    background-color: #f6f6f6;
+    border: black solid 2px;
+    border-radius: 1em;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    transition: all 0.3s ease-out;
+}
+
+.elements {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 20px;
+}
+
+@media (max-width: 1280px) {
+    .elements {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media (max-width: 768px) {
+    .elements {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .element:hover {
+        scale: 1.02;
+    }
+}
+
+.element:hover {
+    scale: 1.02;
+}

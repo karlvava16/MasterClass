@@ -1,0 +1,236 @@
+{
+    "categories": [
+        {
+            "name": "Ноутбуки",
+            "link": "/categories/laptops",
+            "imagePath": "../..../../assets/img/laptops.png"
+        },
+        {
+            "name": "Компьютеры",
+            "link": "/categories/computers",
+            "imagePath": "../../assets/img/PCs.png"
+        },
+        {
+            "name": "Мониторы",
+            "link": "/categories/monitors",
+            "imagePath": "../../assets/img/monitors.png"
+        },
+        {
+            "name": "Gaming",
+            "link": "/categories/gaming",
+            "imagePath": "../../assets/img/gaming.png"
+        },
+        {
+            "name": "Планшеты",
+            "link": "/categories/tablets",
+            "imagePath": "../../assets/img/tablets.png"
+        },
+        {
+            "name": "Кабели и переходники",
+            "link": "/categories/cables",
+            "imagePath": "../../assets/img/wiresAndAdapters.png"
+        },
+        {
+            "name": "Компьютерные комплектующие",
+            "link": "/categories/computer-components",
+            "imagePath": "../../assets/img/computerComponents.png",
+            "subcategories": [
+                {
+                    "name": "SSD",
+                    "link": "/categories/computer-components/ssd"
+                },
+                {
+                    "name": "Системы охлаждения",
+                    "link": "/categories/computer-components/cooling-systems"
+                },
+                {
+                    "name": "Видеокарты",
+                    "link": "/categories/computer-components/graphic-cards"
+                },
+                {
+                    "name": "Оперативная память",
+                    "link": "/categories/computer-components/ram"
+                },
+                {
+                    "name": "Процессоры",
+                    "link": "/categories/computer-components/processors"
+                },
+                {
+                    "name": "Материнские платы",
+                    "link": "/categories/computer-components/motherboards"
+                },
+                {
+                    "name": "Жесткие диски и дисковые массивы",
+                    "link": "/categories/computer-components/hard-drives"
+                },
+                {
+                    "name": "Блоки питания",
+                    "link": "/categories/computer-components/power-supplies"
+                }
+            ]
+        },
+        {
+            "name": "Сетевое оборудование",
+            "link": "/categories/network-equipment",
+            "imagePath": "../../assets/img/networkEquipment.png",
+            "subcategories": [
+                {
+                    "name": "Маршрутизаторы",
+                    "link": "/categories/network-equipment/routers"
+                },
+                {
+                    "name": "Коммутаторы",
+                    "link": "/categories/network-equipment/switches"
+                },
+                {
+                    "name": "Сетевые адаптеры",
+                    "link": "/categories/network-equipment/network-adapters"
+                },
+                {
+                    "name": "Пассивное сетевое оборудование",
+                    "link": "/categories/network-equipment/passive-network-equipment"
+                },
+                {
+                    "name": "Беспроводные точки доступа",
+                    "link": "/categories/network-equipment/wireless-access-points"
+                },
+                {
+                    "name": "Ретрансляторы Wi-Fi",
+                    "link": "/categories/network-equipment/wifi-repeaters"
+                },
+                {
+                    "name": "Патч-корды",
+                    "link": "/categories/network-equipment/patch-cords"
+                }
+            ]
+        },
+        {
+            "name": "Наушники и аксессуары",
+            "link": "/categories/headphones-accessories",
+            "imagePath": "../../assets/img/headphonesAndAccessories.png",
+            "subcategories": [
+                {
+                    "name": "Наушники",
+                    "link": "/categories/headphones-accessories/headphones"
+                },
+                {
+                    "name": "TWS",
+                    "link": "/categories/headphones-accessories/tws"
+                },
+                {
+                    "name": "Игровые гарнитуры",
+                    "link": "/categories/headphones-accessories/gaming-headsets"
+                },
+                {
+                    "name": "Вакуумные наушники",
+                    "link": "/categories/headphones-accessories/in-ear-headphones"
+                },
+                {
+                    "name": "Наушники вкладыши",
+                    "link": "/categories/headphones-accessories/earbuds"
+                },
+                {
+                    "name": "Накладные наушники",
+                    "link": "/categories/headphones-accessories/on-ear-headphones"
+                },
+                {
+                    "name": "Полноразмерные наушники",
+                    "link": "/categories/headphones-accessories/over-ear-headphones"
+                },
+                {
+                    "name": "Усилители для наушников",
+                    "link": "/categories/headphones-accessories/headphone-amplifiers"
+                },
+                {
+                    "name": "Аксессуары для наушников",
+                    "link": "/categories/headphones-accessories/headphone-accessories"
+                }
+            ]
+        },
+        {
+            "name": "Клавиатуры и мыши",
+            "link": "/categories/keyboards-mice",
+            "imagePath": "../../assets/img/keyboardsAndMouses.png",
+            "subcategories": [
+                {
+                    "name": "Компьютерные мыши",
+                    "link": "/categories/keyboards-mice/computer-mice"
+                },
+                {
+                    "name": "Игровые поверхности",
+                    "link": "/categories/keyboards-mice/gaming-surfaces"
+                },
+                {
+                    "name": "Клавиатуры",
+                    "link": "/categories/keyboards-mice/keyboards"
+                },
+                {
+                    "name": "Комплект: клавиатура и мышь",
+                    "link": "/categories/keyboards-mice/keyboard-mouse-sets"
+                },
+                {
+                    "name": "Аксессуары для клавиатур и мышек",
+                    "link": "/categories/keyboards-mice/accessories"
+                }
+            ]
+        },
+        {
+            "name": "Аксессуары для электроники",
+            "link": "/categories/electronics-accessories",
+            "imagePath": "../../assets/img/accessoriesForElectronics.png",
+            "subcategories": [
+                {
+                    "name": "Флеш память USB",
+                    "link": "/categories/electronics-accessories/usb-flash-drives"
+                },
+                {
+                    "name": "Хабы и кардридеры",
+                    "link": "/categories/electronics-accessories/hubs-card-readers"
+                },
+                {
+                    "name": "Аксессуары для ПК и ноутбуков",
+                    "link": "/categories/electronics-accessories/pc-laptop-accessories"
+                },
+                {
+                    "name": "Комплектующие для ноутбуков",
+                    "link": "/categories/electronics-accessories/laptop-components"
+                },
+                {
+                    "name": "Сетевые фильтры, адаптеры и удлинители",
+                    "link": "/categories/electronics-accessories/network-filters-adapters-extenders"
+                },
+                {
+                    "name": "Чехлы для планшетов",
+                    "link": "/categories/electronics-accessories/tablet-cases"
+                },
+                {
+                    "name": "Сумки, рюкзаки и чехлы для ноутбуков",
+                    "link": "/categories/electronics-accessories/laptop-bags-cases"
+                }
+            ]
+        },
+        {
+            "name": "Оргтехника",
+            "link": "/categories/office-equipment",
+            "imagePath": "../../assets/img/officeEquipment.png",
+            "subcategories": [
+                {
+                    "name": "МФУ/Принтеры",
+                    "link": "/categories/office-equipment/printers"
+                },
+                {
+                    "name": "Сканеры",
+                    "link": "/categories/office-equipment/scanners"
+                },
+                {
+                    "name": "Расходные материалы для принтеров",
+                    "link": "/categories/office-equipment/printer-supplies"
+                },
+                {
+                    "name": "Доски, флипчарты",
+                    "link": "/categories/office-equipment/boards-flipcharts"
+                }
+            ]
+        }
+    ]
+}

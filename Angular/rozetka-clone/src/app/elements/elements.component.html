@@ -1,0 +1,7 @@
+<div class="elements">
+    @for (category of categories; track $index) {
+    <div class="element">
+        <app-element [childInput]="category"></app-element>
+    </div>
+    }
+</div>
