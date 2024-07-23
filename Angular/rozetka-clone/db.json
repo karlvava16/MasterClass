@@ -3,37 +3,37 @@
         {
             "name": "Ноутбуки",
             "link": "/categories/laptops",
-            "imagePath": "../..../../assets/img/laptops.png"
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/noutbuki.png"
         },
         {
             "name": "Компьютеры",
             "link": "/categories/computers",
-            "imagePath": "../../assets/img/PCs.png"
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/kompyutery.png"
         },
         {
             "name": "Мониторы",
             "link": "/categories/monitors",
-            "imagePath": "../../assets/img/monitors.png"
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/monitory.png"
         },
         {
             "name": "Gaming",
             "link": "/categories/gaming",
-            "imagePath": "../../assets/img/gaming.png"
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/tovary-dlya-gejmerov.png"
         },
         {
             "name": "Планшеты",
             "link": "/categories/tablets",
-            "imagePath": "../../assets/img/tablets.png"
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/planshety.png"
         },
         {
             "name": "Кабели и переходники",
             "link": "/categories/cables",
-            "imagePath": "../../assets/img/wiresAndAdapters.png"
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/kabeli-i-perekhodniki.png"
         },
         {
             "name": "Компьютерные комплектующие",
             "link": "/categories/computer-components",
-            "imagePath": "../../assets/img/computerComponents.png",
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/kompyuternye-komplektuyushchie.png",
             "subcategories": [
                 {
                     "name": "SSD",
@@ -72,7 +72,7 @@
         {
             "name": "Сетевое оборудование",
             "link": "/categories/network-equipment",
-            "imagePath": "../../assets/img/networkEquipment.png",
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/setevoe-oborudovanie.png",
             "subcategories": [
                 {
                     "name": "Маршрутизаторы",
@@ -107,7 +107,7 @@
         {
             "name": "Наушники и аксессуары",
             "link": "/categories/headphones-accessories",
-            "imagePath": "../../assets/img/headphonesAndAccessories.png",
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/naushniki-i-aksessuary.png",
             "subcategories": [
                 {
                     "name": "Наушники",
@@ -150,7 +150,7 @@
         {
             "name": "Клавиатуры и мыши",
             "link": "/categories/keyboards-mice",
-            "imagePath": "../../assets/img/keyboardsAndMouses.png",
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/klaviatury-i-myshi.png",
             "subcategories": [
                 {
                     "name": "Компьютерные мыши",
@@ -177,7 +177,7 @@
         {
             "name": "Аксессуары для электроники",
             "link": "/categories/electronics-accessories",
-            "imagePath": "../../assets/img/accessoriesForElectronics.png",
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/aksessuari-dlia-elektronyky.png",
             "subcategories": [
                 {
                     "name": "Флеш память USB",
@@ -212,7 +212,7 @@
         {
             "name": "Оргтехника",
             "link": "/categories/office-equipment",
-            "imagePath": "../../assets/img/officeEquipment.png",
+            "imagePath": "https://video.rozetka.com.ua/img_superportal/kompyutery_i_noutbuki/ofisnaya-tekhnika.png",
             "subcategories": [
                 {
                     "name": "МФУ/Принтеры",
