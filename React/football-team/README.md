@@ -1,4 +1,4 @@
-![alt text](1.gif)
+![alt text](2.gif)
 
 # Getting Started with Create React App
 
