@@ -43,7 +43,6 @@ const team = {
     ],
 };
 
-// Generate a random background color (red or blue)
 const backgroundColor = Math.random() > 0.5 ? 'red' : 'blue';
 
 function App() {
