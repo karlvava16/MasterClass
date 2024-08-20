@@ -1,0 +1,93 @@
+.pricing-plan-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2rem;
+    background-color: #f9f9f9;
+}
+
+.card-container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 1rem;
+    padding: 2rem;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card-container:hover {
+    transform: scale(1.05);
+}
+
+.main-text-container {
+    background-color: #017f59;
+    padding: 1rem;
+    border-radius: 8px 8px 0 0;
+    color: white;
+    font-weight: bold;
+}
+
+.main-text {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.price-text-container {
+    margin: 1rem 0;
+}
+
+.price-text {
+    font-size: 2rem;
+    color: #333;
+    font-weight: bold;
+}
+
+.plan-features {
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.feature-block {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.feature-block:last-child {
+    margin-bottom: 1.5rem;
+}
+
+.feture-icon {
+    margin-right: 0.5rem;
+}
+
+.feture-text {
+    font-size: 1rem;
+    color: #555;
+}
+
+.plan-select-container {
+    margin-top: 1rem;
+}
+
+.plan-select {
+    background-color: #017f59;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+header {
+    display: flex;
+    gap: 40px;
+}
